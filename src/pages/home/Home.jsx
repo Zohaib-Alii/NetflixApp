@@ -11,8 +11,6 @@ const Home = () => {
       l<Feature type="movie" />
       <List />
       <List />
-      <List />
-      <List />
       <Register />
       <Login />
     </div>
